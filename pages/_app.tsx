@@ -15,7 +15,8 @@ import Header from "../src/components/Header";
 import Intro from "../src/components/Intro";
 import Projects from "../src/components/Projects";
 import Footer from "../src/components/Footer";
-import  Login  from "../pages/Login";
+import Sidebar from "../src/components/Sidebar";
+//import  Login  from "../pages/Login";
 
 //pages
 
@@ -40,7 +41,8 @@ function MyApp(props: MyAppProps) {
         <Intro/>
         <Projects/>
         <Footer/>
-        <Login/>
+        <Sidebar/>
+   
   
         <Component {...pageProps} />
            

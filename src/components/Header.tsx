@@ -18,6 +18,7 @@ import SearchIcon from '@mui/icons-material/Search';
 
 
 
+
 const pages = ['Home', 'About', 'Gallery', 'Events'];
 const settings = ['Profile', 'Account', 'Dashboard', 'Logout'];
 const isLogin = false;
